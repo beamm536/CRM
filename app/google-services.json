@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "670008368957",
+    "project_id": "crm24-b4ee6",
+    "storage_bucket": "crm24-b4ee6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670008368957:android:734efe8d0cae9eeaae2f54",
+        "android_client_info": {
+          "package_name": "com.example.crm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDlzRTPQQXtRsqN30j94yJ5aCSiOncwDY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
